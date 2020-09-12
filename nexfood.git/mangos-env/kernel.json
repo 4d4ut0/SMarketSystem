@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "E:\\Users\\adaut\\anaconda3\\envs\\mangos-env\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python (mangos-env)",
+ "language": "python"
+}
